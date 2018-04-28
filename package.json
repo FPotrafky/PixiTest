@@ -1,0 +1,26 @@
+{
+  "name": "PixiTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/live-server --host=localhost --port=8080 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FPotrafky/PixiTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FPotrafky/PixiTest/issues"
+  },
+  "homepage": "https://github.com/FPotrafky/PixiTest#readme",
+  "dependencies": {
+    "pixi": "^0.3.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
